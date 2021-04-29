@@ -1,11 +1,5 @@
 
 
-
-
-![f34770503b90f26ea389f557500ff825](https://user-images.githubusercontent.com/57770054/116564046-00d20480-a8db-11eb-8c33-5f506e24d60f.png)
-![website-cropped-v2](https://user-images.githubusercontent.com/57770054/116564072-07607c00-a8db-11eb-9c2d-030e4165c2da.png)
-
-
 <img src="https://user-images.githubusercontent.com/57770054/116561113-6244a400-a8d8-11eb-855c-dee769538729.png">
 <br/>
 <br/>
@@ -34,9 +28,9 @@
 
 <a href="https://angular.io" target="_blank"> <img align="left" alt="Angularr" width="26px" src="https://user-images.githubusercontent.com/57770054/116563464-6d98cf00-a8da-11eb-935e-99669935917e.png"/> </a>
 
-<a href="https://www.java.com/es/" target="_blank"> <img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/57770054/116563681-9faa3100-a8da-11eb-8f9b-498f54c84dad.png"/> </a>
+<a href="https://www.java.com/es/" target="_blank"> <img align="left" alt="Java" width="33px" src="https://user-images.githubusercontent.com/57770054/116563681-9faa3100-a8da-11eb-8f9b-498f54c84dad.png"/> </a>
 
-<a href="https://es.reactjs.org" target="_blank"> <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/57770054/116564046-00d20480-a8db-11eb-8c33-5f506e24d60f.png"/> </a>
+<a href="https://es.reactjs.org" target="_blank"> <img align="left" alt="React" width="33px" src="https://user-images.githubusercontent.com/57770054/116564046-00d20480-a8db-11eb-8c33-5f506e24d60f.png"/> </a>
 
 <a href="https://www.adobe.com/la/products/xd.html" target="_blank"> <img align="left" alt="Adobe XD" width="26px" src="https://user-images.githubusercontent.com/57770054/116564072-07607c00-a8db-11eb-9c2d-030e4165c2da.png"/> </a>
 
