@@ -1,4 +1,11 @@
 
+
+
+
+![f34770503b90f26ea389f557500ff825](https://user-images.githubusercontent.com/57770054/116564046-00d20480-a8db-11eb-8c33-5f506e24d60f.png)
+![website-cropped-v2](https://user-images.githubusercontent.com/57770054/116564072-07607c00-a8db-11eb-9c2d-030e4165c2da.png)
+
+
 <img src="https://user-images.githubusercontent.com/57770054/116561113-6244a400-a8d8-11eb-855c-dee769538729.png">
 <br/>
 <br/>
@@ -22,10 +29,17 @@
 
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
+
+<a href="https://angular.io" target="_blank"> <img align="left" alt="Angularr" width="26px" src="https://user-images.githubusercontent.com/57770054/116563464-6d98cf00-a8da-11eb-935e-99669935917e.png"/> </a>
+
+<a href="https://www.java.com/es/" target="_blank"> <img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/57770054/116563681-9faa3100-a8da-11eb-8f9b-498f54c84dad.png"/> </a>
+
+<a href="https://es.reactjs.org" target="_blank"> <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/57770054/116564046-00d20480-a8db-11eb-8c33-5f506e24d60f.png"/> </a>
+
+<a href="https://www.adobe.com/la/products/xd.html" target="_blank"> <img align="left" alt="Adobe XD" width="26px" src="https://user-images.githubusercontent.com/57770054/116564072-07607c00-a8db-11eb-9c2d-030e4165c2da.png"/> </a>
+
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
