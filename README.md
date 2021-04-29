@@ -1,4 +1,5 @@
-![lgoo de figma](https://user-images.githubusercontent.com/57770054/116565805-902be780-a8dc-11eb-8756-5c4b2dbe1849.png)
+![signo-de-github](https://user-images.githubusercontent.com/57770054/116566105-d7b27380-a8dc-11eb-9dd3-80b71b775177.png)
+
 
 
 
@@ -37,7 +38,7 @@
 <a href="https://www.adobe.com/la/products/xd.html" target="_blank"> <img align="left" alt="Adobe XD" width="50px" src="https://user-images.githubusercontent.com/57770054/116565805-902be780-a8dc-11eb-8756-5c4b2dbe1849.png"/> </a>
 
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<img align="left" alt="GitHub" width="50px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
 <br />
 
