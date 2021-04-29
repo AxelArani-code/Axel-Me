@@ -56,7 +56,7 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="40px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
 
 
-<a href="https://firebase.google.com/?hl=es" target="_blank"> <img align="left" alt="Photoshop" width="40px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png?hl=es"/> </a>
+<a href="https://firebase.google.com/?hl=es" target="_blank"> <img align="left" alt="Photoshop" width="30px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png?hl=es"/> </a>
 
 
 
