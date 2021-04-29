@@ -22,9 +22,9 @@
 ### Languages and Tools:
 
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5"width="50px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="50px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3"width="50px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 
 <a href="https://angular.io" target="_blank"> <img align="left" alt="Angularr" width="50px" src="https://user-images.githubusercontent.com/57770054/116563464-6d98cf00-a8da-11eb-935e-99669935917e.png"/> </a>
 
