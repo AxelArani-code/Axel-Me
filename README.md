@@ -1,4 +1,5 @@
-![logo de figma](https://user-images.githubusercontent.com/57770054/116565645-6f639200-a8dc-11eb-826c-d8f384c9e0af.jpg)
+![lgoo de figma](https://user-images.githubusercontent.com/57770054/116565805-902be780-a8dc-11eb-8756-5c4b2dbe1849.png)
+
 
 
 <img src="https://user-images.githubusercontent.com/57770054/116561113-6244a400-a8d8-11eb-855c-dee769538729.png">
@@ -33,7 +34,7 @@
 
 <a href="https://es.reactjs.org" target="_blank"> <img align="left" alt="React" width="50px" src="https://user-images.githubusercontent.com/57770054/116564046-00d20480-a8db-11eb-8c33-5f506e24d60f.png"/> </a>
 
-<a href="https://www.adobe.com/la/products/xd.html" target="_blank"> <img align="left" alt="Adobe XD" width="80px" src="https://user-images.githubusercontent.com/57770054/116565645-6f639200-a8dc-11eb-826c-d8f384c9e0af.jpg"/> </a>
+<a href="https://www.adobe.com/la/products/xd.html" target="_blank"> <img align="left" alt="Adobe XD" width="80px" src="https://user-images.githubusercontent.com/57770054/116565805-902be780-a8dc-11eb-8756-5c4b2dbe1849.png"/> </a>
 
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
